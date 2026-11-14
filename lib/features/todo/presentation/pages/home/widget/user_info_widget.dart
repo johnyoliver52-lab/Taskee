@@ -39,7 +39,7 @@ class UserInfoWidget extends StatelessWidget {
                   'Hi, Good Morning',
                   style: AppTypography.bodyMd.copyWith(color: AppColors.kgrey),
                 ),
-                Text('Jacobe', style: AppTypography.h2),
+                Text('João Oliveira', style: AppTypography.h2),
               ],
             ),
             14.kW,
